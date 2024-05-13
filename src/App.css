@@ -1,0 +1,23 @@
+.container{
+  width: 77%;
+  height: 90vh;
+  border: 1px solid red;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image {
+  width: 45%;
+  height: 100%;
+  background-image: url(https://softivuspro.com/accupay/main/assets/images/solution_illustrations.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.processing {
+  width: 43%;
+  height: 100%;
+  background-color: blueviolet;
+}
+
